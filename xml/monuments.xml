@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<photos>
+	
+	
+	<photo id="1">
+		<url>../images/monuments/image1.jpg</url>
+		<titre>Tour Eiffel</titre>
+		<desc>un monument très célèbre fdsgsgsdg gfs gqgfq qgsd gqdgqfgqsgdqgdqfgdsqg  gqfg dqgq gqgqgfgqgerg hhyh thzhzhz</desc>
+	</photo>
+	
+	<photo id="2">
+		<url>../images/monuments/image2.jpg</url>
+		<titre>Arc de Triomphe</titre>
+		<desc>un monument très célèbre fdsgsgsdg gfs gqgfq qgsd gqdgqfgqsgdqgdqfgdsqg  gqfg dqgq gqgqgfgqgerg hhyh thzhzhz</desc>
+	</photo>
+	
+	<photo id="3">
+		<url>../images/monuments/image3.jpg</url>
+		<titre>Musée du Louvre</titre>
+		<desc>un monument très célèbre fdsgsgsdg gfs gqgfq qgsd gqdgqfgqsgdqgdqfgdsqg  gqfg dqgq gqgqgfgqgerg hhyh thzhzhz</desc>
+	</photo>
+	
+	<photo id="4">
+		<url>../images/monuments/image4.jpg</url>
+		<titre>Notre Dame de Paris</titre>
+		<desc>un monument très célèbre fdsgsgsdg gfs gqgfq qgsd gqdgqfgqsgdqgdqfgdsqg  gqfg dqgq gqgqgfgqgerg hhyh thzhzhz</desc>
+	</photo>
+	
+	<photo id="5">
+		<url>../images/monuments/image5.jpg</url>
+		<titre>Trocadéro</titre>
+		<desc>un monument très célèbre fdsgsgsdg gfs gqgfq qgsd gqdgqfgqsgdqgdqfgdsqg  gqfg dqgq gqgqgfgqgerg hhyh thzhzhz</desc>
+	</photo>
+	
+	<photo id="6">
+		<url>../images/monuments/image6.jpg</url>
+		<titre>La Défense</titre>
+		<desc><![CDATA[Située dans les Hauts-de-Seine, c'est le quartier des affaires de Paris et aussi le plus grand d'Europe en Terme de Superficie.</br></br>    Principalement constituée de Bureaux, elle acceuille aussi des 600.000 m2 de Logements]]></desc>
+	</photo>
+	
+	
+</photos>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<arrondissements>
+
+	<arrondissement>
+		<id>a1</id>
+		<nom>Paris 1</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a2</id>
+		<nom>Paris 2</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a3</id>
+		<nom>Paris 3</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a4</id>
+		<nom>Paris 4</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a5</id>
+		<nom>Paris 5</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a6</id>
+		<nom>Paris 6</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a7</id>
+		<nom>Paris 7</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a8</id>
+		<nom>Paris 8</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a9</id>
+		<nom>Paris 9</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a10</id>
+		<nom>Paris 10</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a11</id>
+		<nom>Paris 11</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a12</id>
+		<nom>Paris 12</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a13</id>
+		<nom>Paris 13</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a14</id>
+		<nom>Paris 14</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a15</id>
+		<nom>Paris 15</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a16</id>
+		<nom>Paris 16</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a17</id>
+		<nom>Paris 17</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a18</id>
+		<nom>Paris 18</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a19</id>
+		<nom>Paris 19</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+	<arrondissement>
+		<id>a20</id>
+		<nom>Paris 20</nom> 
+		<population>1 827 248</population>
+		<superficie>8 280</superficie>
+		<densite>221</densite>
+	</arrondissement>
+</arrondissements>

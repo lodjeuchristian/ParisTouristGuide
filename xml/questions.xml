@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<questions>
+
+	<question theme="ville">
+		<intitule reponse="2">Combien d'arrondissements compte la ville de Paris ?</intitule>
+		<choix>10</choix>
+		<choix>15</choix>
+		<choix>20</choix>
+		<choix>21</choix>
+	</question>
+	
+	<question theme="ville">
+		<intitule reponse="3">Quel est le nom du fleuve qui traverse paris ?</intitule>
+		<choix>la Scène</choix>
+		<choix>la Seiine</choix>
+		<choix>la Saine</choix>
+		<choix>la Seine</choix>
+	</question>
+	
+	<question theme="ville">
+		<intitule reponse="0">Combien de portes compte paris ?</intitule>
+		<choix>16</choix>
+		<choix>17</choix>
+		<choix>14</choix>
+		<choix>10</choix>
+	</question>
+	
+	<question theme="transport">
+		<intitule reponse="1">Laquelle de ces gares n'est pas une gare parisiène ?</intitule>
+		<choix>Gare de Bercy</choix>
+		<choix>Gare saint-Lazère</choix>
+		<choix>Gare de l'Est</choix>
+		<choix>Gare d'Austerlitz</choix>
+	</question>
+	
+	<question theme="transport">
+		<intitule reponse="3">Combien d'aéroports compte la ville de Paris ?</intitule>
+		<choix>2</choix>
+		<choix>3</choix>
+		<choix>4</choix>
+		<choix>5</choix>
+	</question>
+	
+	<question theme="monument">
+		<intitule reponse="3">Lequel de ces monuments n'est pas un monument parisien ?</intitule>
+		<choix>Fontaine Saint-Sulpice</choix>
+		<choix>Cathédrale Notre-Dame de Paris</choix>
+		<choix>Tour Eiffel</choix>
+		<choix>porte de Paris</choix>
+	</question>
+	
+	<question theme="monument">
+		<intitule reponse="1">Quel est le monument le plus ancien ?</intitule>
+		<choix>réponse1</choix>
+		<choix>réponse2</choix>
+		<choix>réponse3</choix>
+		<choix>réponse4</choix>
+	</question>
+	
+	<question theme="musee">
+		<intitule reponse="0">Quel est le plus grand musée parisien ?</intitule>
+		<choix>Musée du Louvre</choix>
+		<choix>Chateau de Versailles</choix>
+		<choix>Musée d'Orsay</choix>
+		<choix>Musée Quai Branly</choix>
+	</question>
+	
+</questions>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<photos>
+	
+	
+	<photo id="1">
+		<url>../images/transports/image1.jpg</url>
+		<titre>Gare d'Austerlitz</titre>
+		<desc>
+			Aussi connue sous le nom de Gare d'Orléan, cette gare est située dans le 13ème arrondissement de Paris et accueille environ 31 millions de passagers par an. Elle met à la disposition des voyageurs des trains en direction du centre de la France, Toulouse et les Pyrénées. par ailleurs, il existe aussi des trains de nuit qui desserventles grandes villes d'Espagne notamment Barcelone et Madrid.
+		</desc>
+	</photo>
+	
+	<photo id="2">
+		<url>../images/transports/image2.jpg</url>
+		<titre>Gare de Bercy</titre>
+		<desc>
+		
+			Gare située dans le 12 ème arrondissement de Paris dans le quartier de Bercy. Elle est considérée comme une annexe de la Gare de Lyon et permet de dessservir la Bourgogne.Cette gare est spécialisée dans le service "auto-train" qui permet la prise en charge des véhicules des voyageurs.
+
+		</desc>
+	</photo>
+	
+	<photo id="3">
+		<url>../images/transports/image3.jpg</url>
+		<titre>Gare de l'Est</titre>
+		<desc>
+			Se trouve dans le 5 ème arrondissement de Paris non loin de la gare du Nord. Avec un transit annuel estimé à 34 millions de voyageurs par an elle est l'une des gare les plus importante de la capitale et permet de désservir les l'Est de la France ainsi que l'Allemagne, la Suisse et le Luxembourg. Il existe aussi des Trains de nuits à destination de Moscou ainsi que des trains de luxe vers le Royaume-Uni, l'Italie, l'Autriche et Istambul. Elle permet aussi de déservir la banlieu Est de Paris.
+		</desc>
+	</photo>
+	
+	<photo id="4">
+		<url>../images/transports/image4.jpg</url>
+		<titre>Gare de Lyon</titre>
+		<desc>
+		Située dans le 12 ème arrondissement de Paris, cette gare permet de desservir les régions Centre-Est/Sud-Est de la France. Acueillant plus de 83 millions de voyageurs par an elle est l'une des plus importantes de la capitale. Elle dispose de nombreuses lignes de à grande vitesse notamment LGV Sud-Est, LGV Rhône-Alpes, LGV Méditerranée et LGV Rhin-Rhône.
+		</desc>
+	</photo>
+	
+	<photo id="5">
+		<url>../images/transports/image5.jpg</url>
+		<titre>Gare Montparnasse </titre>
+		<desc>
+			Autre fois appelée gare de l'Ouest c'est une gare qui se situe à cheval enfre le 14è et le 15ème arrondissement de Paris. Dessert l'ouest et le sud ouest de la France. cette gare est composéed e 3 zones qui sont Porte Océane(I), Pasteur et Montparnasse(II), Vaugirard(III).
+		</desc>
+	</photo>
+	
+	<photo id="6">
+		<url>../images/transports/image6.jpg</url>
+		<titre>Gare du Nord</titre>
+		<desc>
+			Avec un transit annuel estimé à plus de 190 millions de voyageurs par an, elle est la plus importante de Paris. Cette gare met à la disposition des voyageurs des train intercités à destionnation du Nord de la France et des  grandes lignes à desination des grandes villes du Nord et aussi ves plusieurs autres pays (Allemagne, Pays -Bas, Belgique,Angleterre).
+
+		</desc>
+	</photo>
+	
+	<photo id="7">
+		<url>../images/transports/image7.jpg</url>
+		<titre>Gare Saint-Lazare</titre>
+		<desc>
+			Située dans la le 8ème arrondissemnt de Paris, cette gare dessert l'Ouest et le Sud Ouest de la capitale avec un transit annuel estimé à 100 millions de voyageurs par an
+		</desc>
+	</photo>
+	
+	
+</photos>
+
